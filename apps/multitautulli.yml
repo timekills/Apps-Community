@@ -15,7 +15,7 @@
         pgrole: 'multitautulli'
         intport: '8181'
         extport: '8188'
-        image: 'zSeriesGuy/Tautulli:latest'
+        image: 'zseriesguy/tautulli:latest'
 
     # CORE (MANDATORY) ############################################################
     - name: 'Including cron job'
